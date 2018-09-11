@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "ember-cli-babel": "^6.8.2",
-    "numeral": "2.0.6"
+    "numeral": "brucehappy/Numeral-js#feature/596-exponential-string-nan"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
